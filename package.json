@@ -1,6 +1,6 @@
 {
     "author": "kai zhu <kaizhu256@gmail.com>",
-    "description": "api documentation for [ember-insights (v0.6.2)](http://ember-insights.github.io) [![npm package](https://img.shields.io/npm/v/npmdoc-ember-insights.svg?style=flat-square)](https://www.npmjs.org/package/npmdoc-ember-insights) [![travis-ci.org build-status](https://api.travis-ci.org/npmdoc/node-npmdoc-ember-insights.svg)](https://travis-ci.org/npmdoc/node-npmdoc-ember-insights)",
+    "description": "#### basic api documentation for  [ember-insights (v0.6.2)](http://ember-insights.github.io)  [![npm package](https://img.shields.io/npm/v/npmdoc-ember-insights.svg?style=flat-square)](https://www.npmjs.org/package/npmdoc-ember-insights) [![travis-ci.org build-status](https://api.travis-ci.org/npmdoc/node-npmdoc-ember-insights.svg)](https://travis-ci.org/npmdoc/node-npmdoc-ember-insights)",
     "devDependencies": {
         "electron-lite": "kaizhu256/node-electron-lite#alpha",
         "ember-insights": "*",

@@ -1,4 +1,7 @@
-# api documentation for  [ember-insights (v0.6.2)](http://ember-insights.github.io)  [![npm package](https://img.shields.io/npm/v/npmdoc-ember-insights.svg?style=flat-square)](https://www.npmjs.org/package/npmdoc-ember-insights) [![travis-ci.org build-status](https://api.travis-ci.org/npmdoc/node-npmdoc-ember-insights.svg)](https://travis-ci.org/npmdoc/node-npmdoc-ember-insights)
+# npmdoc-ember-insights
+
+#### basic api documentation for  [ember-insights (v0.6.2)](http://ember-insights.github.io)  [![npm package](https://img.shields.io/npm/v/npmdoc-ember-insights.svg?style=flat-square)](https://www.npmjs.org/package/npmdoc-ember-insights) [![travis-ci.org build-status](https://api.travis-ci.org/npmdoc/node-npmdoc-ember-insights.svg)](https://travis-ci.org/npmdoc/node-npmdoc-ember-insights)
+
 #### The Ember.js addon for tracking web analytics and user experience
 
 [![NPM](https://nodei.co/npm/ember-insights.png?downloads=true&downloadRank=true&stars=true)](https://www.npmjs.com/package/ember-insights)
@@ -86,7 +89,8 @@
         "start": "ember server",
         "test": "ember test"
     },
-    "version": "0.6.2"
+    "version": "0.6.2",
+    "bin": {}
 }
 ```
 
